@@ -1,8 +1,10 @@
 import './index.css';
 
+import Header from './components/layout/index';
+
 const App =() => {
   return(
-    <h1>Starting project</h1>
+    <Header />
   );
 };
 
